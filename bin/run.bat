@@ -1,0 +1,1 @@
+node --harmony ../lib/index.js -p 8008 -d ../files
