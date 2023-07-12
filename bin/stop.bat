@@ -1,2 +1,2 @@
-pm2 stop web_file_manager
+pm2 delete web_file_manager
 pause
