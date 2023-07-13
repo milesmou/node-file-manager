@@ -1,2 +1,1 @@
-pm2 delete web_file_manager
-pause
+start cmd /k pm2 delete web_file_manager
