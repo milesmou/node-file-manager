@@ -16,8 +16,8 @@ fork from https://github.com/milesmou/node-file-manager.git
 
 Or
 ```sh
-  you can modify before run
   use cli tool in bin directory
+  you can modify before run
 ```
 
 
